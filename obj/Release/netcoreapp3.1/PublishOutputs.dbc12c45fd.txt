@@ -1,0 +1,5 @@
+D:\NewApp\webhooktest.exe
+D:\NewApp\webhooktest.dll
+D:\NewApp\webhooktest.deps.json
+D:\NewApp\webhooktest.runtimeconfig.json
+D:\NewApp\webhooktest.pdb
